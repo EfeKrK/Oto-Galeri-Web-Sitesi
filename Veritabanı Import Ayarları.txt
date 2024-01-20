@@ -1,0 +1,14 @@
+Phpmyadmin üzerinden veritabanı import edilmeden önce "otogaleri" isminde bir
+veritabanı oluşturulmalıdır ve soldaki bardan üzerine tıklanmalı ardından üst
+sekmeden içe aktar denmeli ve dosyalardaki "otogaleri" isimli export dosyası
+import edilmelidir.
+
+
+Ardından "Otogaleri1" isimli dosyayı xampp'in dosya konumundaki "htdocs"
+atmalıyız.
+
+
+Anasayfayı xampp üzerinden MySQL ve Apache yi aktif ettikten sonra eğer mysql 
+portumuz 3306 ise aşağıdaki linki tarayıcımıza kopyalayarak açabiliriz
+
+http://localhost/OtoGaleri1/AnaSayfa/AnaSayfa.html
